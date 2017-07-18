@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+.body{
+	position: absolute;
+	left: 386px;
+	top: 296px;
+}
+.meme{
+	position: absolute;
+	left: 386px;
+	top: 208px;
+	width: 319px;
+}
